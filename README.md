@@ -1,7 +1,7 @@
 ### Hi, I'm Jorge 👋 
 
-I´m a Control and Automation Engineer with deep passion to the code.
-I like solve puzzles, listen music and run every day. 
+I´m a Control and Automation Engineer with deep passion for coding.
+I enjoy solving puzzles, listening to music, and running every day. 
 ### <b>"It´s a nice day to code"</b>
 
 <hr>

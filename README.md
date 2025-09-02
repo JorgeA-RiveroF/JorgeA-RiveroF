@@ -12,9 +12,9 @@ I enjoy solving puzzles 🧩🧠, listening to music 🎧♪, and running every 
 
 ## Technical Focus
 
-  🔧 Software Engineering Solutions
-  📊 Data Science & ML
-  ☁️ Cloud Computing
+    🔧 Software Engineering Solutions
+    📊 Data Science & ML
+    ☁️ Cloud Computing
 
 ## 🛠 Tech Stack
 
